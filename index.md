@@ -3,3 +3,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Get into good school :3!
+- [] beat adb in a fight
+- [x] learn to dance  
